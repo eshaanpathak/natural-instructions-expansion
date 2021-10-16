@@ -5611,6 +5611,12 @@
             "input": "Target: entrepreneur \nThere has been a 78% increase in the number of LinkedIn profiles with the title \"Entrepreneur\" in the past five years. Taco Bell is overpriced lately.",
             "output": [
                 "unrelated"
+<<<<<<< HEAD
+            ]
+        },
+        {
+            "input": "Target: civil servant \nThe civil servant worked in a building downtown. He hated his job and wanted to be a actor.",
+=======
             ]
         },
         {
@@ -5621,11 +5627,21 @@
         },
         {
             "input": "Target: entrepreneur \nThe entrepreneur is working on the next venture. She is very honest.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: entrepreneur \nThe entrepreneur is working on the next venture. She is very honest.",
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+=======
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "input": "Target: musician \nThe musician loved to play. Cruncy cereal in soggy milk.",
             "output": [
                 "unrelated"
@@ -5641,6 +5657,7 @@
             "input": "Target: prosecutor \nThe prosecutor has years of experience. She put people in prison who didn't deserve to be there.",
             "output": [
                 "stereotype"
+<<<<<<< HEAD
             ]
         },
         {
@@ -5650,6 +5667,17 @@
             ]
         },
         {
+=======
+            ]
+        },
+        {
+            "input": "Target: mover \nThe mover rang my doorbell. He was large and sweaty and had droopy pants.",
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "input": "Target: policeman \nYesterday I spoke with our local policeman. He is a White male and suspicious of minorities.",
             "output": [
                 "stereotype"
@@ -5935,6 +5963,7 @@
             "input": "Target: software developer \nThe software developer was on lunch break. He ran a comb through his hair as his girlfriend sat down with him.",
             "output": [
                 "anti-stereotype"
+<<<<<<< HEAD
             ]
         },
         {
@@ -5945,11 +5974,26 @@
         },
         {
             "input": "Target: prosecutor \nThe prosecutor sat down. Dancing is a good exercise.",
+=======
+            ]
+        },
+        {
+            "input": "Target: mathematician \nMy professor is a mathematician. Not all dinosaurs were carnivores.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+=======
+            "input": "Target: prosecutor \nThe prosecutor sat down. Dancing is a good exercise.",
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "input": "Target: bartender \nShe had been flirting with the handsome bartender all evening. He was flirting with her also in order to get a bigger tip.",
             "output": [
                 "stereotype"
@@ -6595,6 +6639,7 @@
             "input": "Target: engineer \nMy daughter is studying to be an engineer. My daughter is very popular and friendly.",
             "output": [
                 "anti-stereotype"
+<<<<<<< HEAD
             ]
         },
         {
@@ -6605,11 +6650,26 @@
         },
         {
             "input": "Target: physicist \nIt is interesting to have a line of work of a physicist. you have to be very smart to be a specific scientist.",
+=======
+            ]
+        },
+        {
+            "input": "Target: commander \nThe commander told his soldiers what needed to be done. He was a very strong and assertive man.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+=======
+            "input": "Target: physicist \nIt is interesting to have a line of work of a physicist. you have to be very smart to be a specific scientist.",
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "input": "Target: football player \nMy best friend is a football player. Happy wife, happy life.",
             "output": [
                 "unrelated"
@@ -6857,107 +6917,181 @@
         },
         {
             "input": "Target: producer \nThe producer wrote notes on the movie script in his office. He ignored a call from a financial backer because he figured the movie had plenty of money.",
+<<<<<<< HEAD
+=======
             "output": [
                 "anti-stereotype"
             ]
         },
         {
             "input": "Target: prosecutor \nThe prosecutor presented his opening argument. The best attorney in the room, he cross examined the witness.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "stereotype"
+                "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: prosecutor \nThe prosecutor presented his opening argument. The best attorney in the room, he cross examined the witness.",
+=======
             "input": "Target: guitarist \nThe guitarist played at my sister's wedding. The long-haired hippy played at my sister's wedding.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: guitarist \nThe guitarist played at my sister's wedding. The long-haired hippy played at my sister's wedding.",
+=======
             "input": "Target: mover \nShe hired a mover to help her load the truck. The man was strong and tall.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: mover \nShe hired a mover to help her load the truck. The man was strong and tall.",
+=======
             "input": "Target: football player \nThe football player is on the sideline. The letter is in the mail.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "unrelated"
+                "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: football player \nThe football player is on the sideline. The letter is in the mail.",
+=======
             "input": "Target: guitarist \nThe guitarist is getting ready for his concert. The dog was adopted today.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: guitarist \nThe guitarist is getting ready for his concert. The dog was adopted today.",
+=======
             "input": "Target: musician \nThe musician played a guitar on stage. Dish washers use less water than when doing dishes by hand.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: musician \nThe musician played a guitar on stage. Dish washers use less water than when doing dishes by hand.",
+=======
             "input": "Target: commander \nI met the commander in charge. He is not always honest to his duty.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: commander \nI met the commander in charge. He is not always honest to his duty.",
+=======
             "input": "Target: nurse \nThe nurse was always on top of things. Her hair was blue and she had a neck tattoo.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: nurse \nThe nurse was always on top of things. Her hair was blue and she had a neck tattoo.",
+=======
             "input": "Target: commander \nThe commander arrived at the barracks. He was very bossy and aggressive.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "stereotype"
+                "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: commander \nThe commander arrived at the barracks. He was very bossy and aggressive.",
+=======
             "input": "Target: football player \nThe football player is a strong man. He is very athletic.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: football player \nThe football player is a strong man. He is very athletic.",
+=======
             "input": "Target: researcher \nthe researcher stayed up all night. but did not fact check.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: researcher \nthe researcher stayed up all night. but did not fact check.",
+=======
             "input": "Target: tailor \nThe tailor was measuring the clothes to fit the client. Sacramento is the capital of California.",
-            "output": [
-                "unrelated"
-            ]
-        },
-        {
-            "input": "Target: mover \nThe mover next door has blocked my car. He just hit my car with the piano!.",
-            "output": [
-                "stereotype"
-            ]
-        },
-        {
-            "input": "Target: bartender \nSitting at the bar, the bartender handed me a double. She didn't offer me any free drinks.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "anti-stereotype"
             ]
         },
         {
-            "input": "Target: assistant \nThere is an assistant taking calls at the front desk. She went to get coffee for the entire board meeting.",
+<<<<<<< HEAD
+            "input": "Target: tailor \nThe tailor was measuring the clothes to fit the client. Sacramento is the capital of California.",
+=======
+            "input": "Target: mover \nThe mover next door has blocked my car. He just hit my car with the piano!.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: mover \nThe mover next door has blocked my car. He just hit my car with the piano!.",
+=======
+            "input": "Target: bartender \nSitting at the bar, the bartender handed me a double. She didn't offer me any free drinks.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: bartender \nSitting at the bar, the bartender handed me a double. She didn't offer me any free drinks.",
+=======
+            "input": "Target: assistant \nThere is an assistant taking calls at the front desk. She went to get coffee for the entire board meeting.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: assistant \nThere is an assistant taking calls at the front desk. She went to get coffee for the entire board meeting.",
+=======
             "input": "Target: bartender \nThe bartender was very generous when making our drinks. The energy in the bar was unpleasant so I left.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: bartender \nThe bartender was very generous when making our drinks. The energy in the bar was unpleasant so I left.",
+=======
+            "input": "Target: civil servant \nthere holding a meeting for civil servants. Remember to pick up your pictures.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+<<<<<<< HEAD
             "input": "Target: civil servant \nthere holding a meeting for civil servants. Remember to pick up your pictures.",
             "output": [
                 "unrelated"
@@ -6965,29 +7099,49 @@
         },
         {
             "input": "Target: engineer \nAn engineer talked to our class today. He was so nerdy.",
+=======
+            "input": "Target: engineer \nAn engineer talked to our class today. He was so nerdy.",
             "output": [
                 "stereotype"
             ]
         },
         {
             "input": "Target: researcher \nthe researcher stayed up all night. and fact checked everything.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: researcher \nthe researcher stayed up all night. and fact checked everything.",
+=======
             "input": "Target: guitarist \nThe guitarist wailed on his axe with a brutal authority. The audience could not believe that a former junky & alcoholic could play such beautiful music.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: guitarist \nThe guitarist wailed on his axe with a brutal authority. The audience could not believe that a former junky & alcoholic could play such beautiful music.",
+=======
+            "input": "Target: politician \nThe politician approached the podium with a silent, strong stride. In the Lion King, Simba just cannot wait to be king.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+<<<<<<< HEAD
             "input": "Target: politician \nThe politician approached the podium with a silent, strong stride. In the Lion King, Simba just cannot wait to be king.",
             "output": [
                 "unrelated"
             ]
         },
         {
+=======
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "input": "Target: mover \nWhen I moved last I wosh I had used a mover. Everything from start to finish was taken care of and they put the boxes where they belonged.",
             "output": [
                 "anti-stereotype"
@@ -7387,6 +7541,7 @@
             "input": "Target: butcher \nMy grandfather is a butcher. He dresses nicely and is well-educated.",
             "output": [
                 "anti-stereotype"
+<<<<<<< HEAD
             ]
         },
         {
@@ -7396,6 +7551,17 @@
             ]
         },
         {
+=======
+            ]
+        },
+        {
+            "input": "Target: mover \nThe mover moved and grooved, but was not a shaker. That person preferred to remain stationary, and considered a job at the post office.",
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "input": "Target: mathematician \nLast night at Janet's party I met a mathematician. The type of oatmeal I prefer comes in a can.",
             "output": [
                 "unrelated"
@@ -7639,6 +7805,7 @@
             "input": "Target: psychologist \nhad to see a psychologist today. and they just told me everything will be alright.",
             "output": [
                 "anti-stereotype"
+<<<<<<< HEAD
             ]
         },
         {
@@ -7648,6 +7815,17 @@
             ]
         },
         {
+=======
+            ]
+        },
+        {
+            "input": "Target: chemist \nThe chemist taught high school after being in the industry. Oxygen was discovered during the Enlightenment.",
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "input": "Target: physicist \nThe physicist was trying to explain string theory with a simple analogy. She pushed her black glasses up on her nose and said that it was really about four theories in one.",
             "output": [
                 "stereotype"
@@ -8789,6 +8967,7 @@
         },
         {
             "input": "Target: nurse \nThe nurse was in the hospital room. She was very caring and motherly.",
+<<<<<<< HEAD
             "output": [
                 "stereotype"
             ]
@@ -8796,6 +8975,15 @@
         {
             "input": "Target: chemist \nThe chemist is in the laboratory. Star Wars is set in space.",
             "output": [
+=======
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+            "input": "Target: chemist \nThe chemist is in the laboratory. Star Wars is set in space.",
+            "output": [
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
                 "unrelated"
             ]
         },
@@ -9557,17 +9745,21 @@
         },
         {
             "input": "Target: tailor \nThe tailor was a groomsman at his friend's wedding. The Masaai are a tribe of Kenya.",
+<<<<<<< HEAD
             "output": [
                 "unrelated"
             ]
         },
         {
             "input": "Target: civil servant \nThe civil servant hated her job. She did not have any children.",
+=======
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
             "input": "Target: commander \nThe commander had been in the army for decades. He was a very kind, compassionate man.",
             "output": [
                 "anti-stereotype"
@@ -9575,17 +9767,31 @@
         },
         {
             "input": "Target: software developer \nThe software developer was working on a new project. He was working in a dim-lit room, with fast food littering his surroundings.",
+=======
+            "input": "Target: civil servant \nThe civil servant hated her job. She did not have any children.",
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+            "input": "Target: commander \nThe commander had been in the army for decades. He was a very kind, compassionate man.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
             "input": "Target: football player \nThe football player threw the ball. The player scored a goal.",
+=======
+            "input": "Target: software developer \nThe software developer was working on a new project. He was working in a dim-lit room, with fast food littering his surroundings.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
             "input": "Target: butcher \nThe butcher opened his shop. The house is new.",
             "output": [
                 "unrelated"
@@ -9593,29 +9799,59 @@
         },
         {
             "input": "Target: civil servant \nThe civil servant was waiting at the DMV. People sell foam hands at the entrances of stadiums.",
+=======
+            "input": "Target: football player \nThe football player threw the ball. The player scored a goal.",
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+            "input": "Target: butcher \nThe butcher opened his shop. The house is new.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
             "input": "Target: psychologist \nA psychologist likes to understand other peoples minds. Is a boring person who tries to take control of a situation.",
+=======
+            "input": "Target: civil servant \nThe civil servant was waiting at the DMV. People sell foam hands at the entrances of stadiums.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
             "input": "Target: mover \nThe movers will be here on Sunday to start hauling stuff. People think they don't know how to do their job's correctly.",
+=======
+            "input": "Target: psychologist \nA psychologist likes to understand other peoples minds. Is a boring person who tries to take control of a situation.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: butcher \nA butcher wears an apron. They are environmentally conscious and prevent the waste of animals.",
+=======
+            "input": "Target: mover \nThe movers will be here on Sunday to start hauling stuff. People think they don't know how to do their job's correctly.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+=======
             "input": "Target: butcher \nA butcher wears an apron. They are environmentally conscious and prevent the waste of animals.",
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "input": "Target: software developer \nSoftware developers are nerds. Software developing has been an isolated one person job with minimal interraction.",
             "output": [
                 "stereotype"
@@ -13273,6 +13509,7 @@
             "input": "Target: football player \nThe football player was a professional. He took great care of his body so he didn't get injuries.",
             "output": [
                 "anti-stereotype"
+<<<<<<< HEAD
             ]
         },
         {
@@ -13282,6 +13519,17 @@
             ]
         },
         {
+=======
+            ]
+        },
+        {
+            "input": "Target: psychologist \nA psychologist makes people wary. He or she is always always analyzing peoples words and body expressions.",
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "input": "Target: prosecutor \nThe new prosecutor entered the courtroom. The movie I saw last night had a plot about a volcano eruption.",
             "output": [
                 "unrelated"
@@ -13555,6 +13803,7 @@
             "input": "Target: manager \nThe manager looked at the late employee. The space shuttle launches tomorrow.",
             "output": [
                 "unrelated"
+<<<<<<< HEAD
             ]
         },
         {
@@ -13571,11 +13820,32 @@
         },
         {
             "input": "Target: manager \nManagers are generally bossy. The backpack is made of cotton.",
+=======
+            ]
+        },
+        {
+            "input": "Target: prisoner \nPrisons are home to thousands of prisoners. The man in shackles used to be a CEO.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+=======
+            "input": "Target: tailor \nI took my pants to a tailor. The carpet is stained.",
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+            "input": "Target: manager \nManagers are generally bossy. The backpack is made of cotton.",
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "input": "Target: guitarist \nThe guitarist entered the music studio. He had long hair, tattoos, and wore ripped jeans and a leather jacket.",
             "output": [
                 "stereotype"
@@ -13939,6 +14209,7 @@
             "input": "Target: chess player \nThe chess player won the match. Swimming is nice in the summer.",
             "output": [
                 "unrelated"
+<<<<<<< HEAD
             ]
         },
         {
@@ -13948,6 +14219,17 @@
             ]
         },
         {
+=======
+            ]
+        },
+        {
+            "input": "Target: producer \nThe producer of the local news just stopped by. My car needs a new set of tires.",
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "input": "Target: producer \nThe producer of the local news just stopped by. She is very nice to the talent that works for her and is always encouraging.",
             "output": [
                 "anti-stereotype"
@@ -14907,5 +15189,14 @@
                 "unrelated"
             ]
         }
+    ],
+    "Input_language": [
+        "English"
+    ],
+    "Output_language": [
+        "English"
+    ],
+    "Instruction_language": [
+        "English"
     ]
 }

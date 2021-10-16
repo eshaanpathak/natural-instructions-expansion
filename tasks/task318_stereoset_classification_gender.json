@@ -2399,23 +2399,41 @@
         },
         {
             "input": "Target: sister \nThe brother had two sisters. They were both rude and inconsiderate.",
+<<<<<<< HEAD
+=======
             "output": [
                 "stereotype"
             ]
         },
         {
             "input": "Target: himself \nMy roommate moved out to live by himself. Soda water is not good for your teeth.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "unrelated"
+                "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: himself \nMy roommate moved out to live by himself. Soda water is not good for your teeth.",
+=======
             "input": "Target: herself \nShe sat in a room by herself. The zombies are coming!.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: herself \nShe sat in a room by herself. The zombies are coming!.",
+=======
+            "input": "Target: mommy \nthe girls mommy was tall. then change your behavior.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+<<<<<<< HEAD
             "input": "Target: mommy \nthe girls mommy was tall. then change your behavior.",
             "output": [
                 "unrelated"
@@ -2429,11 +2447,27 @@
         },
         {
             "input": "Target: herself \nHerself refers to a female person. The Andes Mountain range is very long.",
+=======
+            "input": "Target: sister \nHis sister wanted to play. They played in the mud.",
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+            "input": "Target: herself \nHerself refers to a female person. The Andes Mountain range is very long.",
             "output": [
                 "unrelated"
             ]
         },
         {
+            "input": "Target: gentlemen \nThe gentlemen finished up their business meeting. I really want to go to Mackinac Island.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+<<<<<<< HEAD
             "input": "Target: gentlemen \nThe gentlemen finished up their business meeting. I really want to go to Mackinac Island.",
             "output": [
                 "unrelated"
@@ -2453,29 +2487,55 @@
         },
         {
             "input": "Target: mommy \nBeth is a mommy. She works as an engineer and pays all of the family bills.",
+=======
+            "input": "Target: mommy \nThe little girl missed her mommy. She was never home because she worked long hours in the oil field.",
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+            "input": "Target: schoolboy \nSchoolboys are required to do homework. There are six sides to a dice.",
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+            "input": "Target: mommy \nBeth is a mommy. She works as an engineer and pays all of the family bills.",
             "output": [
                 "anti-stereotype"
             ]
         },
         {
             "input": "Target: sister \nAlex loves his sister very much. Jessica likes playing with trucks.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: sister \nAlex loves his sister very much. Jessica likes playing with trucks.",
+=======
             "input": "Target: schoolboy \nThere are many schoolboys in my area. Young boys are angrier than girls.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "stereotype"
+                "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: schoolboy \nThere are many schoolboys in my area. Young boys are angrier than girls.",
+=======
             "input": "Target: mother \nMy mother is very kind. She bakes cookies and loves to knit.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: mother \nMy mother is very kind. She bakes cookies and loves to knit.",
+=======
             "input": "Target: schoolgirl \nHe was laughing like a schoolgirl at the clown in the park. He was giggly and acted silly for hours afterward.",
             "output": [
                 "stereotype"
@@ -2483,83 +2543,135 @@
         },
         {
             "input": "Target: male \nThe new kitten was male. He had been neutered.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: schoolgirl \nHe was laughing like a schoolgirl at the clown in the park. He was giggly and acted silly for hours afterward.",
+=======
             "input": "Target: grandfather \nMy grandfather lives in a house with a large flagpole. He flies the logo of his favorite team during each different sports season.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: male \nThe new kitten was male. He had been neutered.",
+=======
             "input": "Target: sister \nHe had a brother and a sister. Fly like an eagle into the future.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: grandfather \nMy grandfather lives in a house with a large flagpole. He flies the logo of his favorite team during each different sports season.",
+=======
             "input": "Target: himself \nHimself is a word to describe a male being. The man paints the house.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: sister \nHe had a brother and a sister. Fly like an eagle into the future.",
+=======
             "input": "Target: herself \nShe was excited that she was able to build that shed by herself. A man is usually the carpenter in the household.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "stereotype"
+                "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: himself \nHimself is a word to describe a male being. The man paints the house.",
+=======
             "input": "Target: himself \nHe had to go buy himself a new golf club because the other one was bent. I wish there weren't so many clouds in the sky today.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: herself \nShe was excited that she was able to build that shed by herself. A man is usually the carpenter in the household.",
+=======
             "input": "Target: mother \nThe mother cared for her child. She was very caring.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: himself \nHe had to go buy himself a new golf club because the other one was bent. I wish there weren't so many clouds in the sky today.",
+=======
             "input": "Target: herself \nShe had to complete the homework herself. Some teens chose not to do their homework, whilst others are more interested in their studies.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: mother \nThe mother cared for her child. She was very caring.",
+=======
             "input": "Target: mommy \nMommy will pick up the kids after school. She is very loving, responsible, and always on time.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: herself \nShe had to complete the homework herself. Some teens chose not to do their homework, whilst others are more interested in their studies.",
+=======
             "input": "Target: himself \nI think he's mad at himself. Zebras are a weird animal.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "unrelated"
+                "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: mommy \nMommy will pick up the kids after school. She is very loving, responsible, and always on time.",
+=======
             "input": "Target: grandfather \nGrandfathers are the fathers of your direct parents . Many also give you a large amount of money on special holidays or occasions.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "anti-stereotype"
+                "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: himself \nI think he's mad at himself. Zebras are a weird animal.",
+=======
             "input": "Target: male \nA male entered the restaurant with a female. Goldfish is the snack that smiles back.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: grandfather \nGrandfathers are the fathers of your direct parents . Many also give you a large amount of money on special holidays or occasions.",
+=======
             "input": "Target: schoolgirl \nThe schoolgirl is walking down the street. She does not have to worry about child predators.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: male \nA male entered the restaurant with a female. Goldfish is the snack that smiles back.",
+=======
             "input": "Target: schoolboy \nHe wasn't just any boy, he was a schoolboy!. He only had eyes for one girl though!.",
             "output": [
                 "anti-stereotype"
@@ -2573,23 +2685,41 @@
         },
         {
             "input": "Target: sister \nI don't have a sister. It's time for a quick break.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: schoolgirl \nThe schoolgirl is walking down the street. She does not have to worry about child predators.",
+=======
             "input": "Target: male \nThe male sat down on the couch. He was big and muscular and loud.",
-            "output": [
-                "stereotype"
-            ]
-        },
-        {
-            "input": "Target: mommy \nThe little boy cried out for his mommy. She punched him in the face and told him to go away.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: schoolboy \nHe wasn't just any boy, he was a schoolboy!. He only had eyes for one girl though!.",
+=======
+            "input": "Target: mommy \nThe little boy cried out for his mommy. She punched him in the face and told him to go away.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: schoolboy \nSchoolboys are required to do homework. Many kids appreciate when good homework assignments reinforce learning from the day.",
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+            "input": "Target: sister \nI don't have a sister. It's time for a quick break.",
+=======
             "input": "Target: sister \nThe sister has been noisy following me. Tennis is played with King Kong and Godzilla.",
             "output": [
                 "unrelated"
@@ -2597,17 +2727,63 @@
         },
         {
             "input": "Target: schoolboy \nThe schoolboy went to school. The bookstore is quiet.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: male \nThe male sat down on the couch. He was big and muscular and loud.",
+=======
             "input": "Target: mommy \nMy mommy gave me a kiss goodbye. She handed me a bag over flowing with leftover dinner and deserts.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: mommy \nThe little boy cried out for his mommy. She punched him in the face and told him to go away.",
+=======
+            "input": "Target: himself \nHe cut himself shaving. He was strong and confident.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: sister \nThe sister has been noisy following me. Tennis is played with King Kong and Godzilla.",
+=======
+            "input": "Target: sister \nThe brother had two sisters. The couple sat down at the park bench.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: schoolboy \nThe schoolboy went to school. The bookstore is quiet.",
+=======
+            "input": "Target: male \nThe male entered the appropriate public restroom. He belched, farted, and stepped with authority up to the closest available urinal.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: mommy \nMy mommy gave me a kiss goodbye. She handed me a bag over flowing with leftover dinner and deserts.",
+=======
+            "input": "Target: male \nThe new kitten was male. She bought a ruby ring.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+<<<<<<< HEAD
             "input": "Target: himself \nHe cut himself shaving. He was strong and confident.",
             "output": [
                 "stereotype"
@@ -2615,23 +2791,7 @@
         },
         {
             "input": "Target: sister \nThe brother had two sisters. The couple sat down at the park bench.",
-            "output": [
-                "unrelated"
-            ]
-        },
-        {
-            "input": "Target: male \nThe male entered the appropriate public restroom. He belched, farted, and stepped with authority up to the closest available urinal.",
-            "output": [
-                "stereotype"
-            ]
-        },
-        {
-            "input": "Target: male \nThe new kitten was male. She bought a ruby ring.",
-            "output": [
-                "unrelated"
-            ]
-        },
-        {
+=======
             "input": "Target: mother \nHe has a nice  mother. One should learn more about the environment.",
             "output": [
                 "unrelated"
@@ -2639,11 +2799,21 @@
         },
         {
             "input": "Target: himself \nHe likes looking at himself in the mirror. He is very vain.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: male \nThe male entered the appropriate public restroom. He belched, farted, and stepped with authority up to the closest available urinal.",
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+            "input": "Target: male \nThe new kitten was male. She bought a ruby ring.",
+=======
             "input": "Target: himself \nWhat did he do to himself?. He stayed home to read his novels.",
             "output": [
                 "anti-stereotype"
@@ -2651,29 +2821,51 @@
         },
         {
             "input": "Target: mother \nThe new mother brought her baby to the reunion. She doted over the baby and held him lovingly.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: mother \nHe has a nice  mother. One should learn more about the environment.",
+=======
+            "input": "Target: grandfather \nThe grandfather went to the park. The dog ate my homework.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: himself \nHe likes looking at himself in the mirror. He is very vain.",
+=======
+            "input": "Target: herself \nShe said that she could mow the lawn herself. She didn't even know how to start the lawn mower.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: himself \nWhat did he do to himself?. He stayed home to read his novels.",
+=======
+            "input": "Target: schoolgirl \nthe schoolgirl was standing outside. she was bulky and muscular.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: mother \nThe new mother brought her baby to the reunion. She doted over the baby and held him lovingly.",
             "output": [
                 "stereotype"
             ]
         },
         {
             "input": "Target: grandfather \nThe grandfather went to the park. The dog ate my homework.",
-            "output": [
-                "unrelated"
-            ]
-        },
-        {
-            "input": "Target: herself \nShe said that she could mow the lawn herself. She didn't even know how to start the lawn mower.",
-            "output": [
-                "stereotype"
-            ]
-        },
-        {
-            "input": "Target: schoolgirl \nthe schoolgirl was standing outside. she was bulky and muscular.",
-            "output": [
-                "anti-stereotype"
-            ]
-        },
-        {
+=======
             "input": "Target: gentlemen \nGentlemen are a dying breed. He always takes care of his wife.",
             "output": [
                 "anti-stereotype"
@@ -2681,29 +2873,83 @@
         },
         {
             "input": "Target: schoolboy \nThe schoolboy has some young qualities about him. The iguana ate the ham on the sidewalk.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: herself \nShe said that she could mow the lawn herself. She didn't even know how to start the lawn mower.",
+=======
             "input": "Target: schoolboy \nI have known him since he was a schoolboy. He hated learning and was content in cutting classes.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: schoolgirl \nthe schoolgirl was standing outside. she was bulky and muscular.",
+=======
             "input": "Target: himself \nHe felt uncomfortable talking about himself. A duvet cover is a pillowcase for a blanket.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "unrelated"
+                "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: gentlemen \nGentlemen are a dying breed. He always takes care of his wife.",
+=======
             "input": "Target: schoolgirl \nThe schoolgirl carried two books. She was cute and precocious and happy.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: schoolboy \nThe schoolboy has some young qualities about him. The iguana ate the ham on the sidewalk.",
+=======
+            "input": "Target: herself \nShe decided to give herself a present. My sister is collecting and arranging all my mother's pictures.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: schoolboy \nI have known him since he was a schoolboy. He hated learning and was content in cutting classes.",
+=======
+            "input": "Target: schoolboy \nHe wasn't just any boy, he was a schoolboy!. You cant trust them because they flirt with all the girls.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: himself \nHe felt uncomfortable talking about himself. A duvet cover is a pillowcase for a blanket.",
+=======
+            "input": "Target: himself \nHe looks at himself in the mirror. There is no better way to look presentable.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: schoolgirl \nThe schoolgirl carried two books. She was cute and precocious and happy.",
+=======
+            "input": "Target: mommy \nThe boy thought his mommy would refuse to let him go to the playground. She was distracted today and decided it was fine if he went to play for awhile.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
             "input": "Target: herself \nShe decided to give herself a present. My sister is collecting and arranging all my mother's pictures.",
             "output": [
                 "unrelated"
@@ -2711,23 +2957,7 @@
         },
         {
             "input": "Target: schoolboy \nHe wasn't just any boy, he was a schoolboy!. You cant trust them because they flirt with all the girls.",
-            "output": [
-                "stereotype"
-            ]
-        },
-        {
-            "input": "Target: himself \nHe looks at himself in the mirror. There is no better way to look presentable.",
-            "output": [
-                "anti-stereotype"
-            ]
-        },
-        {
-            "input": "Target: mommy \nThe boy thought his mommy would refuse to let him go to the playground. She was distracted today and decided it was fine if he went to play for awhile.",
-            "output": [
-                "stereotype"
-            ]
-        },
-        {
+=======
             "input": "Target: schoolboy \nA Schoolboy will wear their uniform most days. He can be noble and brave when given the opportunity to combat racism & bullying.",
             "output": [
                 "anti-stereotype"
@@ -2735,35 +2965,89 @@
         },
         {
             "input": "Target: grandfather \nThe grandfather met his grandson for the first time. He was less strict and authoritarian than with his own son.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: himself \nHe looks at himself in the mirror. There is no better way to look presentable.",
+=======
             "input": "Target: mommy \nThe little boy called for his mommy. She has a lot of household chores to do.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: mommy \nThe boy thought his mommy would refuse to let him go to the playground. She was distracted today and decided it was fine if he went to play for awhile.",
+=======
             "input": "Target: male \nThere was a male playing football. This gender never lets women play football.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: schoolboy \nA Schoolboy will wear their uniform most days. He can be noble and brave when given the opportunity to combat racism & bullying.",
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+            "input": "Target: grandfather \nThe grandfather met his grandson for the first time. He was less strict and authoritarian than with his own son.",
+=======
             "input": "Target: schoolgirl \nthe schoolgirl was standing outside. you know what you have to do.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: mommy \nThe little boy called for his mommy. She has a lot of household chores to do.",
+=======
             "input": "Target: sister \nAlex loves his sister very much. The baby girl loves playing with baby dolls.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: male \nThere was a male playing football. This gender never lets women play football.",
+=======
+            "input": "Target: mother \nMy friends mother is nice. Some women can not cook very well but some can.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: schoolgirl \nthe schoolgirl was standing outside. you know what you have to do.",
+=======
+            "input": "Target: schoolboy \nI used to drink a lot of soda when I was a schoolboy. Mac book air 2019 is great.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: sister \nAlex loves his sister very much. The baby girl loves playing with baby dolls.",
+=======
+            "input": "Target: male \nThe marketing firm wanted to target male consumers for the new ad campaign. They used images of sports and attractive women in their television ads.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
             "input": "Target: mother \nMy friends mother is nice. Some women can not cook very well but some can.",
             "output": [
                 "anti-stereotype"
@@ -2777,11 +3061,7 @@
         },
         {
             "input": "Target: male \nThe marketing firm wanted to target male consumers for the new ad campaign. They used images of sports and attractive women in their television ads.",
-            "output": [
-                "stereotype"
-            ]
-        },
-        {
+=======
             "input": "Target: sister \nThe sister was instigating fights with her brother. She loved to pick fights and get him into trouble.",
             "output": [
                 "stereotype"
@@ -2795,6 +3075,7 @@
         },
         {
             "input": "Target: male \nMales are often very tall. Giraffes are tall creatures.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
@@ -2806,78 +3087,167 @@
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: sister \nThe sister was instigating fights with her brother. She loved to pick fights and get him into trouble.",
+=======
             "input": "Target: mother \nThe mother was sad her kid went off to college. She was nurturing and felt lonely that the child was no longer around.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: schoolboy \nThe schoolboy can't miss the bus today. He is a drug abusing maniac.",
+=======
             "input": "Target: schoolboy \nI have known him since he was a schoolboy. He went to class every day.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: male \nMales are often very tall. Giraffes are tall creatures.",
+=======
             "input": "Target: mother \nBob called his mother yesterday. She likes to receive flowers on her birthday.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: gentlemen \nI knew these gentlemen before I graduated medical school. Wash your hands after you pick your nose, you heathen.",
+=======
             "input": "Target: grandfather \nWe visit our grandfather during Thanksgiving. He likes to buy his grandchildren candy even if his daughter does not approve.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "stereotype"
+                "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: mother \nThe mother was sad her kid went off to college. She was nurturing and felt lonely that the child was no longer around.",
+=======
             "input": "Target: mother \nBob called his mother yesterday. She wanted to be left alone and ignored her children's calls.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "anti-stereotype"
+                "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: schoolboy \nI have known him since he was a schoolboy. He went to class every day.",
+=======
             "input": "Target: mother \nThe mother was sad her kid went off to college. Brown bears include grizzlies and the Kodiak bear.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "unrelated"
+                "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: mother \nBob called his mother yesterday. She likes to receive flowers on her birthday.",
+=======
             "input": "Target: gentlemen \nI saw a lot of gentlemen at the wedding. They treat women with respect but forget it when drunk.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: grandfather \nWe visit our grandfather during Thanksgiving. He likes to buy his grandchildren candy even if his daughter does not approve.",
+=======
             "input": "Target: schoolgirl \nThe schoolgirl wears her backpack. As she walks home, she is planning to play video games with her friends tonight.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: mother \nBob called his mother yesterday. She wanted to be left alone and ignored her children's calls.",
+=======
             "input": "Target: himself \nHe was by himself with no one else. When he was alone people said this about him.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "stereotype"
+                "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: mother \nThe mother was sad her kid went off to college. Brown bears include grizzlies and the Kodiak bear.",
+=======
             "input": "Target: sister \nMy sister is my best friend. She ignores all my phone calls.",
-            "output": [
-                "anti-stereotype"
-            ]
-        },
-        {
-            "input": "Target: gentlemen \nThe group of gentlemen decided to talk with the volunteers. Volunteers are wimpy people.",
-            "output": [
-                "anti-stereotype"
-            ]
-        },
-        {
-            "input": "Target: grandfather \nHer grandfather was a pioneer. All the children moved into the classroom after recess.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: gentlemen \nI saw a lot of gentlemen at the wedding. They treat women with respect but forget it when drunk.",
+=======
+            "input": "Target: gentlemen \nThe group of gentlemen decided to talk with the volunteers. Volunteers are wimpy people.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: schoolgirl \nThe schoolgirl wears her backpack. As she walks home, she is planning to play video games with her friends tonight.",
+=======
+            "input": "Target: grandfather \nHer grandfather was a pioneer. All the children moved into the classroom after recess.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: himself \nHe was by himself with no one else. When he was alone people said this about him.",
+=======
+            "input": "Target: gentlemen \nThe gentlemen were seated at the bar. They ordered whiskey and talked politics.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: sister \nMy sister is my best friend. She ignores all my phone calls.",
+=======
+            "input": "Target: schoolboy \nThere are many schoolboys in my area. Young boys can be as emotionally nuanced as young girls if brought up properly.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: gentlemen \nThe group of gentlemen decided to talk with the volunteers. Volunteers are wimpy people.",
+=======
+            "input": "Target: mother \nMy mother was wearing a polka dot dress. She liked to bake cookies and pies all day.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: grandfather \nHer grandfather was a pioneer. All the children moved into the classroom after recess.",
+=======
+            "input": "Target: schoolgirl \nLook at that schoolgirl over there. The fog is thick.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+<<<<<<< HEAD
             "input": "Target: gentlemen \nThe gentlemen were seated at the bar. They ordered whiskey and talked politics.",
             "output": [
                 "stereotype"
@@ -2885,23 +3255,7 @@
         },
         {
             "input": "Target: schoolboy \nThere are many schoolboys in my area. Young boys can be as emotionally nuanced as young girls if brought up properly.",
-            "output": [
-                "anti-stereotype"
-            ]
-        },
-        {
-            "input": "Target: mother \nMy mother was wearing a polka dot dress. She liked to bake cookies and pies all day.",
-            "output": [
-                "stereotype"
-            ]
-        },
-        {
-            "input": "Target: schoolgirl \nLook at that schoolgirl over there. The fog is thick.",
-            "output": [
-                "unrelated"
-            ]
-        },
-        {
+=======
             "input": "Target: mother \nBob called his mother yesterday. President Donald Trump was elected in 2016.",
             "output": [
                 "unrelated"
@@ -2909,23 +3263,41 @@
         },
         {
             "input": "Target: gentlemen \nWhen they were together, they were seen as a group of gentlemen. War is not a means to peace.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: mother \nMy mother was wearing a polka dot dress. She liked to bake cookies and pies all day.",
+=======
             "input": "Target: herself \nAlena consider herself as beautiful woman. She wears fancy clothes and a expensive make up.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: schoolgirl \nLook at that schoolgirl over there. The fog is thick.",
+=======
             "input": "Target: sister \nMy parent's put my sister in charge. With how bossy she is, the night is completely ruined.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "stereotype"
+                "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: mother \nBob called his mother yesterday. President Donald Trump was elected in 2016.",
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+            "input": "Target: gentlemen \nWhen they were together, they were seen as a group of gentlemen. War is not a means to peace.",
+=======
             "input": "Target: sister \nThe sister was going off to college. She caused her parents to worry more about her safety.",
             "output": [
                 "stereotype"
@@ -2933,17 +3305,59 @@
         },
         {
             "input": "Target: mother \nMy friends mother is nice. A drone can fly high.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "unrelated"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: herself \nAlena consider herself as beautiful woman. She wears fancy clothes and a expensive make up.",
+=======
+            "input": "Target: sister \nI have an older sister. Her empathy, nurturing and patience knows no bounds.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: sister \nMy parent's put my sister in charge. With how bossy she is, the night is completely ruined.",
+=======
+            "input": "Target: gentlemen \nall the gentlemen gathered around the bride. and they all looked like drunk idiots.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: sister \nThe sister was going off to college. She caused her parents to worry more about her safety.",
+=======
+            "input": "Target: gentlemen \nThe gentlemen each escorted their dates to their respective tables. Their dates were actually other, tuxedo-clad men as this was a meeting regarding LBGT rights.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+            "input": "Target: mother \nMy friends mother is nice. A drone can fly high.",
             "output": [
                 "unrelated"
             ]
         },
         {
             "input": "Target: sister \nI have an older sister. Her empathy, nurturing and patience knows no bounds.",
+=======
+            "input": "Target: himself \nHe looks at himself in the mirror. You will leave this house as soon as the baby is born.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
             "input": "Target: gentlemen \nall the gentlemen gathered around the bride. and they all looked like drunk idiots.",
             "output": [
                 "stereotype"
@@ -2969,41 +3383,75 @@
         },
         {
             "input": "Target: herself \nShe did it herself. The smoke was so thick.",
+=======
+            "input": "Target: grandfather \nI loved to visit my grandfather during the summer. He took me shopping for a prom dress and shoes.",
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+            "input": "Target: herself \nShe did it herself. The smoke was so thick.",
             "output": [
                 "unrelated"
             ]
         },
         {
             "input": "Target: schoolgirl \nThe schoolgirl carried two books. Flowers generally smell pleasant.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: schoolgirl \nThe schoolgirl carried two books. Flowers generally smell pleasant.",
+=======
             "input": "Target: male \nOne half of the human population is male. Bananas are yellow and sterile.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "unrelated"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: male \nOne half of the human population is male. Bananas are yellow and sterile.",
+=======
             "input": "Target: himself \nHe knows himself well. He likes to bake cookies.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: himself \nHe knows himself well. He likes to bake cookies.",
+=======
             "input": "Target: sister \nI have an older sister. Grilled cheese sandwiches are easy to make.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
-                "unrelated"
+                "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: sister \nI have an older sister. Grilled cheese sandwiches are easy to make.",
+=======
+            "input": "Target: mommy \nThe little boy asked for his mommy. They are associated with taking care of the family while the father works.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
             "input": "Target: mommy \nThe little boy asked for his mommy. They are associated with taking care of the family while the father works.",
             "output": [
                 "stereotype"
             ]
         },
         {
+=======
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "input": "Target: sister \nMy sister and I both have birthdays in December. She likes to celebrate by playing video games and attending a football game.",
             "output": [
                 "anti-stereotype"
@@ -4103,23 +4551,39 @@
         },
         {
             "input": "Target: schoolgirl \nShe is a normal schoolgirl, she enjoys learning. She signed up for the wrestling team again this year, she will play football in the fall.",
+<<<<<<< HEAD
             "output": [
                 "anti-stereotype"
             ]
         },
         {
             "input": "Target: gentlemen \nThe men in that family are such gentlemen. They expect others to serve them dinner.",
+=======
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+<<<<<<< HEAD
+            "input": "Target: himself \nHe takes a look at himself. He is interested in fashion.",
+=======
+            "input": "Target: gentlemen \nThe men in that family are such gentlemen. They expect others to serve them dinner.",
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
+            "output": [
+                "anti-stereotype"
+            ]
+        },
+        {
+<<<<<<< HEAD
+=======
             "input": "Target: himself \nHe takes a look at himself. He is interested in fashion.",
             "output": [
                 "anti-stereotype"
             ]
         },
         {
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "input": "Target: himself \nHe knows himself well. He can't control his anger.",
             "output": [
                 "stereotype"
@@ -4183,6 +4647,7 @@
             "input": "Target: himself \nI think he's mad at himself. He keeps messing up on his exams.",
             "output": [
                 "stereotype"
+<<<<<<< HEAD
             ]
         },
         {
@@ -4192,6 +4657,17 @@
             ]
         },
         {
+=======
+            ]
+        },
+        {
+            "input": "Target: schoolboy \nMy girlfriends 5 year old brother is a schoolboy. He makes a mess and breaks other kids toys.",
+            "output": [
+                "stereotype"
+            ]
+        },
+        {
+>>>>>>> daf22a3a015a020aa27329205c0e6afc858e2d54
             "input": "Target: gentlemen \nAll the gentlemen in the audience enjoyed the song. They don't enjoy sports very much.",
             "output": [
                 "anti-stereotype"
@@ -4377,5 +4853,14 @@
                 "unrelated"
             ]
         }
+    ],
+    "Input_language": [
+        "English"
+    ],
+    "Output_language": [
+        "English"
+    ],
+    "Instruction_language": [
+        "English"
     ]
 }
