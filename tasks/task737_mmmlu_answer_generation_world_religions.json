@@ -6,7 +6,10 @@
         "Measuring Massive Multitask Language Understanding tasks"
     ],
     "Categories": [
-        "Question Answering"
+        "Question Answering -> Multiple Choice Question Answering",
+        " Classification -> Answer Type Classification",
+        "Question Answering -> Contextual Question Answering -> Missing Knowledge",
+        "Reasoning -> Factual Reasoning"
     ],
     "Definition": "You are given a question on world religions. You are also given 4 answer options (associated with \"A\", \"B\", \"C\", \"D\"), out of which only one is correct. You need to answer the question by selecting the correct option. You should only answer with the choice letter, not the whole answer.",
     "Positive Examples": [
@@ -31,6 +34,11 @@
             "input": " Naturalists who concentrated on natural elements and processes are associated with which of the following?\n(A)Daoism (B)Yin-Yang School (C)Mengzi (D)Humanistic Buddhism",
             "output": "B,C",
             "explanation": "Only one of the following options ('A', 'B', 'C', 'D') is allowed to be the answer. Multiple options can not be correct. The correct answer here would have been 'B'."
+        },
+        {
+            "input": "How can the Upanishads be characterized?\n(A)Ritual texts (B)Philosophical texts (C)Hymns (D)Origin stories",
+            "output": "C",
+            "explanation": "The Upanishads in Hinduism can be characterized as philosphical texts. Hence the correct answer should be 'B'."
         }
     ],
     "Instances": [
@@ -56,12 +64,6 @@
             "input": " Where was the most famous site of the mystery cults in Greece?\n(A)Ephesus (B)Corinth (C)Athens (D)Eleusis",
             "output": [
                 "D"
-            ]
-        },
-        {
-            "input": "How can the Upanishads be characterized?\n(A)Ritual texts (B)Philosophical texts (C)Hymns (D)Origin stories",
-            "output": [
-                "B"
             ]
         },
         {
@@ -299,7 +301,7 @@
             ]
         },
         {
-            "input": "What hours are set aside as the ambrosial hours for the Sikhs?\n(A)5–7 a.m. (B)9–11 p.m. (C)3–6 p.m. (D)3–6 a.m.",
+            "input": "What hours are set aside as the ambrosial hours for the Sikhs?\n(A)5\u20137 a.m. (B)9\u201311 p.m. (C)3\u20136 p.m. (D)3\u20136 a.m.",
             "output": [
                 "D"
             ]
@@ -455,7 +457,7 @@
             ]
         },
         {
-            "input": " What is the name of a recent revivalist movement in Turkey led by Fetullah Gülen?\n(A)Hizmet (B)Nation of Islam (C)Muslim Brotherhood (D)Sufism",
+            "input": " What is the name of a recent revivalist movement in Turkey led by Fetullah G\u00fclen?\n(A)Hizmet (B)Nation of Islam (C)Muslim Brotherhood (D)Sufism",
             "output": [
                 "A"
             ]

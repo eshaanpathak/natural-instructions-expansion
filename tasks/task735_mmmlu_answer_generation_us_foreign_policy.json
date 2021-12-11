@@ -6,7 +6,10 @@
         "Measuring Massive Multitask Language Understanding tasks"
     ],
     "Categories": [
-        "Question Answering"
+        "Question Answering -> Multiple Choice Question Answering",
+        " Classification -> Answer Type Classification",
+        "Question Answering -> Contextual Question Answering -> Missing Knowledge",
+        "Reasoning -> Factual Reasoning"
     ],
     "Definition": "You are given a question on US foreign policy. You are also given 4 answer options (associated with \"A\", \"B\", \"C\", \"D\"), out of which only one is correct. You need to answer the question by selecting the correct option. You should only answer with the choice letter, not the whole answer.",
     "Positive Examples": [
@@ -31,15 +34,14 @@
             "input": "What was the significance of the Gulf of Tonkin resolution?\n(A)It allowed the US to intensify its involvement in Vietnam (B)It illustrated the influence of public opinion on US foreign policy (C)It enhanced Congressional control over the Vietnam War (D)It curtailed US involvement in Vietnam",
             "output": "B,C",
             "explanation": "Only one of the following options ('A', 'B', 'C', 'D') is allowed to be the answer. Multiple options can not be correct. The correct answer here would have been 'A'."
+        },
+        {
+            "input": "The departments of the executive branch that assist the president in designing and carrying out U.S. foreign policy are known as\n(A)the United Nations. (B)the National Security Council. (C)the State Department. (D)the National Security Agency.",
+            "output": "B",
+            "explanation": "The State Department assist the president in designing and carrying out U.S. foreign policy. Hence the correct answer should be 'C'."
         }
     ],
     "Instances": [
-        {
-            "input": "The departments of the executive branch that assist the president in designing and carrying out U.S. foreign policy are known as\n(A)the United Nations. (B)the National Security Council. (C)the State Department. (D)the National Security Agency.",
-            "output": [
-                "C"
-            ]
-        },
         {
             "input": "Why did Lincoln oppose the southward expansion of the US?\n(A)It would have drained the US economically (B)It would have involved compromising opposition to slavery (C)It would have increased immigration to the US (D)None of the above",
             "output": [
@@ -293,7 +295,7 @@
             ]
         },
         {
-            "input": "Who is considered the “father” of containment?\n(A)George Kennan (B)John Foster Dulles (C)Henry Kissinger (D)Dwight Eisenhower",
+            "input": "Who is considered the \u201cfather\u201d of containment?\n(A)George Kennan (B)John Foster Dulles (C)Henry Kissinger (D)Dwight Eisenhower",
             "output": [
                 "A"
             ]
@@ -323,7 +325,7 @@
             ]
         },
         {
-            "input": "Détente, or the relaxing of tensions coupled with firm guarantees of mutual security, represented a shift in American foreign policy toward the communist world ushered in by\n(A)Richard Nixon. (B)Eugene McCarthy (C)Lyndon Johnson. (D)Robert Kennedy.",
+            "input": "D\u00e9tente, or the relaxing of tensions coupled with firm guarantees of mutual security, represented a shift in American foreign policy toward the communist world ushered in by\n(A)Richard Nixon. (B)Eugene McCarthy (C)Lyndon Johnson. (D)Robert Kennedy.",
             "output": [
                 "A"
             ]
@@ -527,7 +529,7 @@
             ]
         },
         {
-            "input": "Why do contemporary European liberal democrats tend to object to the influence of exceptionalism on American foreign policy?\n(A)They see it as a challenge to European global influence (B)They see it as an ideological façade for US imperialism (C)They see it as a temporary phenomenon (D)None of the above",
+            "input": "Why do contemporary European liberal democrats tend to object to the influence of exceptionalism on American foreign policy?\n(A)They see it as a challenge to European global influence (B)They see it as an ideological fa\u00e7ade for US imperialism (C)They see it as a temporary phenomenon (D)None of the above",
             "output": [
                 "B"
             ]
@@ -581,7 +583,7 @@
             ]
         },
         {
-            "input": "During the early years of his administration, Reagan's foreign and defense policies emphasized\n(A)nuclear disarmament. (B)détente. (C)anticommunism. (D)international free trade.",
+            "input": "During the early years of his administration, Reagan's foreign and defense policies emphasized\n(A)nuclear disarmament. (B)d\u00e9tente. (C)anticommunism. (D)international free trade.",
             "output": [
                 "C"
             ]

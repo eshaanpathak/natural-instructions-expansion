@@ -6,7 +6,10 @@
         "Measuring Massive Multitask Language Understanding tasks"
     ],
     "Categories": [
-        "Question Answering"
+        "Question Answering -> Multiple Choice Question Answering",
+        " Classification -> Answer Type Classification",
+        "Question Answering -> Contextual Question Answering -> Missing Knowledge",
+        "Reasoning -> Factual Reasoning"
     ],
     "Definition": "You are given a question on high school microeconomics. You are also given 4 answer options (associated with \"A\", \"B\", \"C\", \"D\"), out of which only one is correct. You need to answer the question by selecting the correct option. You should only answer with the choice letter, not the whole answer.",
     "Positive Examples": [
@@ -26,6 +29,11 @@
             "input": "Marginal revenue equals marginal cost at the point where\n(A)total revenue is greater than total cost at its greatest distance (B)total revenue is equal to total cost (C)marginal product is at its highest point (D)total product is at its highest point",
             "output": "I dont know.",
             "explanation": "Do not generate anything else apart from one of the following characters: 'A', 'B, 'C', 'D'."
+        },
+        {
+            "input": "The Lorenz Curve is used to measure which of the following:\n(A)The ratio of income to wealth in different countries. (B)The ratio of public goods to private goods in different countries. (C)The ratio of income inequality to income equality in different countries. (D)The ratio of the working poor to the non-working poor.",
+            "output": "B",
+            "explanation": "The Lorenz Curve is used to measure the ratio of income inequality to income equality in different countries. Hence the correct answer should be 'C'."
         },
         {
             "input": "The price of labor is $2, and the price of capital is $1. The marginal product of labor is 200, and the marginal product of capital is 50. What should the firm do?\n(A)Increase capital and decrease labor so that the marginal product of capital falls and the marginal product of labor rises. (B)Increase capital and decrease labor so that the marginal product of capital rises and the marginal product of labor falls. (C)Decrease capital and increase labor so that the marginal product of capital rises and the marginal product of labor falls. (D)Decrease capital and increase labor so that the marginal product of capital falls and the marginal product of labor rises.",
@@ -60,12 +68,6 @@
         },
         {
             "input": "In the short run, the shut down price is equal to\n(A)minimum point on average total cost. (B)maximum point on average total cost. (C)minimum point on average variable cost. (D)maximum point on average variable cost.",
-            "output": [
-                "C"
-            ]
-        },
-        {
-            "input": "The Lorenz Curve is used to measure which of the following:\n(A)The ratio of income to wealth in different countries. (B)The ratio of public goods to private goods in different countries. (C)The ratio of income inequality to income equality in different countries. (D)The ratio of the working poor to the non-working poor.",
             "output": [
                 "C"
             ]
@@ -653,13 +655,13 @@
             ]
         },
         {
-            "input": "Consider a profit-maximizing firm in a perfectly competitive market with several sellers and several buyers (i.e., the firm is a \"price taker\" of the goods it sells and a \"price taker\" of the hourly wages it pays its workers). If a technological innovation made by someone in this firm were to significantly raise the firm's marginal physical product (but not that of any other firm's), then this innovation would\n(A)reduce the firm’s employment level, because fewer workers are now needed (B)raise the workers’ hourly wage as they now contribute more marginal revenue (C)lead the firm to hire more workers but not to raise their wages (D)lead the firm to hire more workers and to pay them higher wages",
+            "input": "Consider a profit-maximizing firm in a perfectly competitive market with several sellers and several buyers (i.e., the firm is a \"price taker\" of the goods it sells and a \"price taker\" of the hourly wages it pays its workers). If a technological innovation made by someone in this firm were to significantly raise the firm's marginal physical product (but not that of any other firm's), then this innovation would\n(A)reduce the firm\u2019s employment level, because fewer workers are now needed (B)raise the workers\u2019 hourly wage as they now contribute more marginal revenue (C)lead the firm to hire more workers but not to raise their wages (D)lead the firm to hire more workers and to pay them higher wages",
             "output": [
                 "C"
             ]
         },
         {
-            "input": "Which of the following is most likely an example of production inputs that can be adjusted in the long run, but not in the short run?\n(A)Amount of wood used to make a desk. (B)Number of pickles put on a sandwich. (C)The size of a McDonald’s kitchen. (D)Number of teacher’s assistants in local high schools.",
+            "input": "Which of the following is most likely an example of production inputs that can be adjusted in the long run, but not in the short run?\n(A)Amount of wood used to make a desk. (B)Number of pickles put on a sandwich. (C)The size of a McDonald\u2019s kitchen. (D)Number of teacher\u2019s assistants in local high schools.",
             "output": [
                 "C"
             ]
@@ -1103,7 +1105,7 @@
             ]
         },
         {
-            "input": "Your aunt runs a small firm from her home making apple pies. She hires some friends to help her. Which of the following situations would most likely increase her demand for labor?\n(A)The price of apple peelers/corers rises. (B)Your aunt’s friends gossip all day, slowing their dough-making process. (C)There is a sale on ovens. (D)A new study reveals that apples increase your risk of cancer.",
+            "input": "Your aunt runs a small firm from her home making apple pies. She hires some friends to help her. Which of the following situations would most likely increase her demand for labor?\n(A)The price of apple peelers/corers rises. (B)Your aunt\u2019s friends gossip all day, slowing their dough-making process. (C)There is a sale on ovens. (D)A new study reveals that apples increase your risk of cancer.",
             "output": [
                 "C"
             ]

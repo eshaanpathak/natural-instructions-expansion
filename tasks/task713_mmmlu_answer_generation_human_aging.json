@@ -6,7 +6,10 @@
         "Measuring Massive Multitask Language Understanding tasks"
     ],
     "Categories": [
-        "Question Answering"
+        "Question Answering -> Multiple Choice Question Answering",
+        " Classification -> Answer Type Classification",
+        "Reasoning -> Scientific Reasoning",
+        "Question Answering -> Contextual Question Answering -> Missing Knowledge"
     ],
     "Definition": "You are given a question on human aging. You are also given 4 answer options (associated with \"A\", \"B\", \"C\", \"D\"), out of which only one is correct. You need to answer the question by selecting the correct option. You should only answer with the choice letter, not the whole answer.",
     "Positive Examples": [
@@ -31,6 +34,11 @@
             "input": "Which of the following factors is associated with a decreased risk of Alzheimer's?\n(A)Being African or Hispanic American (B)Eating fish (C)A lower level of education (D)Being married",
             "output": "B,C",
             "explanation": "Only one of the following options ('A', 'B', 'C', 'D') is allowed to be the answer. Multiple options can not be correct. The correct answer here would have been 'B'."
+        },
+        {
+            "input": "Cells taken from a body and grown in a nutritional and protected culture will\n(A)Never stop dividing (B)Stop dividing when their telomere strands are gone (C)Never divide (D)Show no senescence",
+            "output": "D",
+            "explanation": "Cells taken from a body and grown in a nutritional and protected culture stop dividing when their telomere strands are gone. Hence the correct answer should be 'B'."
         }
     ],
     "Instances": [
@@ -47,19 +55,13 @@
             ]
         },
         {
-            "input": "Cells taken from a body and grown in a nutritional and protected culture will\n(A)Never stop dividing (B)Stop dividing when their telomere strands are gone (C)Never divide (D)Show no senescence",
-            "output": [
-                "B"
-            ]
-        },
-        {
             "input": "Socioemotional selectivity theory says that older adults have smaller social networks because they\n(A)Are more concerned with those closest to them (B)Select new network members based on emotional factors (C)Can no longer get out to select new network members (D)Are too emotionally involved to spend time with others",
             "output": [
                 "A"
             ]
         },
         {
-            "input": "In this chapter's Senior View, May Lee told us that we should all respect our elders because\n(A)They are much older than we are (B)They raised us (C)They lived through difficult times (D)They ask nothing in return",
+            "input": "In this chapter's\u00a0Senior View, May Lee told us that we should all respect our elders because\n(A)They are much older than we are (B)They raised us (C)They lived through difficult times (D)They ask nothing in return",
             "output": [
                 "B"
             ]
@@ -983,7 +985,7 @@
             ]
         },
         {
-            "input": "In this chapter's Senior View, Pat Shelley told us that you shouldn't retire if\n(A)You can't do it right (B)You're younger than 60 (C)Your family wants you to keep working (D)You have no hobbies",
+            "input": "In this chapter's\u00a0Senior View, Pat Shelley told us that you shouldn't retire if\n(A)You can't do it right (B)You're younger than 60 (C)Your family wants you to keep working (D)You have no hobbies",
             "output": [
                 "A"
             ]
